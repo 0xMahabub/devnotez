@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: alphacoderz/devnotez
   branch: main
 
 publish_mode: editorial_workflow
